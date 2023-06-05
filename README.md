@@ -135,7 +135,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: D.VINITHA NAIDU
 RegisterNumber:  212222230175
 */
-```
+
 # SR FLIP-FLOP
 ```
 module sr(s,r,clk,q,qbar);
